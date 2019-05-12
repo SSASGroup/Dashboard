@@ -1,0 +1,2 @@
+/* pages/wxml/index.wxss */
+@import "../../wxSearchView/wxSearchView.wxss";

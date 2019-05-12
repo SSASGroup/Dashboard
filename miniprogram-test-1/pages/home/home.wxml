@@ -1,0 +1,14 @@
+<!--pages/home/home.wxml-->
+<view class="weui-search-bar">
+   <view class="weui-search-bar__form">
+    <view class="weui-search-bar__box">
+      <icon class="weui-icon-search_in-box" type="search" size="14"></icon>
+      <input type="text" class="weui-search-bar__input" placeholder="输入任务关键词等" bindtap='search' disabled='true'/>
+    </view>
+  </view>
+</view>
+<view>
+  <block wx:for="{{tasks}}" wx:key="id">
+    <view>{{item.id}} : {{item.title}}</view>
+  </block>
+</view>
