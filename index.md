@@ -33,8 +33,9 @@ layout: default
     - 9.1 [XX短视频](09-01-video)
     - 9.2 [XX短视频](09-02-video)
 * X1 meeting-records
-    - inception meeting (yy/mm/dd)
-* X2 KANBAN
+    - [inception meeting (2019/04/26)](X1-inception-meeting)
+    - [Iteration 1 meeting (2019/05/29)](X1-iteration1-meeting)
+* X2 [KANBAN](https://github.com/orgs/SSASGroup/projects)
 * X3 auditing-records
 * X4 Tech/Work Report
    - 学号-title
