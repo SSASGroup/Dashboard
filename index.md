@@ -30,8 +30,7 @@ layout: default
     - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](08-03-relationship-between-ECB-framework-directory-design-logic-archit)
     - 8.4 [部署说明](08-04-deployment-doc)
 * 9、成品展示
-    - 9.1 [XX短视频](09-01-video)
-    - 9.2 [XX短视频](09-02-video)
+    - 9.1 [演示视频](09-01-video)
 * X1 meeting-records
     - [inception meeting (2019/04/26)](X1-inception-meeting)
     - [Iteration 1 meeting (2019/05/29)](X1-iteration1-meeting)
@@ -41,4 +40,4 @@ layout: default
    - 学号-title
 * X5 Final Report
    - 学号-title
-   - 小组分工与贡献率说明
+   - [小组分工与贡献率说明](X5-teamwork-profile)
