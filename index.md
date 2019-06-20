@@ -20,7 +20,7 @@ layout: default
     - 6.6 [Supplementary Requirements 补充需求](06-06-supplementary-requirements)
 * 7、Design 设计说明书
     - 7.1 [UI design 界面设计](07-01-ui-design)
-    - 7.2 [Database design 数据库设计](07-02-database-design)
+    - 7.2 [Database design 数据库设计](http://tiandiyijian.top/2019/06/20/swsad-db/)
     - 7.3 [Interface API design 接口 API 设计](http://tiandiyijian.top/2019/06/19/swsad-api)
     - 7.4 [Architecture design 架构设计](07-04-software-architecture-document)
     - 7.5 [Usecase design 用例设计](07-05-usecase-design)
