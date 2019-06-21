@@ -28,7 +28,7 @@ layout: default
     - 8.1 [XX 代码规范](08-01-coding-standard)
     - 8.2 [REST API设计规范](08-02-RESTful-api-design-standard)
     - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](08-03-relationship-between-ECB-framework-directory-design-logic-archit)
-    - 8.4 [部署说明](08-04-deployment-doc)
+    - 8.4 [部署说明](http://tiandiyijian.top/2019/06/21/swsad-deploy/)
 * 9、成品展示
     - 9.1 [演示视频](09-01-video)
 * X1 meeting-records
