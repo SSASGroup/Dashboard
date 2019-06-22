@@ -37,7 +37,7 @@ layout: default
 * X2 [KANBAN](https://github.com/orgs/SSASGroup/projects)
 * X3 auditing-records
 * X4 Tech/Work Report
-   - 学号-title
+   - (16340162-Django中图片的上传和访问问题)[http://tiandiyijian.top/2019/06/22/swsad-django-img/]
 * X5 Final Report
    - 学号-title
    - [小组分工与贡献率说明](X5-teamwork-profile)
