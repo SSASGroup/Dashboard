@@ -28,6 +28,13 @@
 
 wxml标签可以单独出现的情况，尽量单独出现，如```<input />```。
 
+标签属性顺序如下
+
+- `class` （class是为高而复用组件设计的，所以所以应处在第一位）
+- `id`、`name`（id更加具体且应该尽量少使用，所以将它放在第二位）
+- `wx:if`、`wx:else`、`wx:for`
+- `wx:data`
+
 控制每行HTML的代码数量在50个字符以内，方便阅读浏览，多余的代码进行换行处理，标签所带属性每个属性间进行换行。
 
 ```xaml
@@ -59,20 +66,41 @@ wxml标签可以单独出现的情况，尽量单独出现，如```<input />```�
 除组件外的其他块级元素，均需注释出其功能，并在其上下空出一行与其他代码进行区分。
 
 ```xaml
-<view>...</view>
+<view>
+  <!-- 顶部轮播图 -->
+  <swiper indicator-dots="" autoplay="" interval="" duration=""> ...
+  </swiper>
+  
+  <!-- 左侧菜单 -->
+  <view class="left-menu"> ...
+  </view>
+  
+  <!-- 右侧菜单 -->
+  <scroll-view class="right-menu" scroll-y="true"  bindscroll="scroll" scroll-into-view="" scroll-top="" enable-back-to-top="true"> ...
+  </scroll-view>
 
+  <!-- 底部 -->
+  <view class="shoppingCart-bar" wx:if=""> ...
+  </view>
+</view>
 
-
-//导航栏
-
-<view>...</view>
-
-
-
-<view>...</view>
+<!-- 购物车 -->
+<view class="drawer-screen" bindtap="showCartList" data-statu="close" wx:if=""> ...
+</view>
 ```
 
 
+
+#### 3. id/class命名规则
+
+- 遵循“内容优先，表现为辅”的基本原则
+  - 首先根据内容命名，如header、footer。若根据内容无法找到合适的命名，再结 合表现进行辅助，如col-main、blue-box。
+- 一律小写，多个单词以'-'连接
+  - 不能使用下划线和驼峰命名法，如main-nav。可基于最近的父元素名称作为前缀。
+- 在不影响语义的情况下，可适当使用缩写
+  - 缩写只用来表示结构，如col、nav、btn等，不可自造缩写。
+- 避免广告拦截词
+  - ad、ads、adv、banner、sponsor、gg、guangg、guanggao等，页面中尽量避免采用以上词汇来命名。
 
 ### CSS规范
 
@@ -130,7 +158,34 @@ CSS代码需有明显的代码缩进。每一个样式类之间空出一行。
 }
 ```
 
+属性顺序如下
 
+- 位置属性（`position`、`top`、`right`、`z-index`、`display`、`float`等）
+
+- 大小（`width`、`height`、`margin`、`padding`等）
+
+- 背景（`background`、`border`等）
+
+- 文字系列（`font`、`line-height`、`letter-spacing`、`color`、`text-align`等）
+
+- 其他（```animation```、```transition```等）
+
+  ```css
+  .left-menu{
+  position: absolute;
+  left:0px;
+  z-index: 10;
+  width:160rpx;
+  font-size:28rpx;
+  }
+  .left-menu-unselect{
+  padding-left:10rpx;
+  height:72rpx;
+  border-bottom:1px solid #E3E3E3;
+  background-color:#F9F9F9;
+  color: #6C6C6C;
+  }
+  ```
 
 采用flex进行布局，禁止使用float以及vertical-align。
 
