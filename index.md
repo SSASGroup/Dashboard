@@ -30,7 +30,7 @@ layout: default
     - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](08-03-relationship-between-ECB-framework-directory-design-logic-archit)
     - 8.4 [部署说明](http://tiandiyijian.top/2019/06/21/swsad-deploy/)
 * 9、成品展示
-    - 9.1 [演示视频](09-01-video)
+    - 9.1 [演示视频](http://tiandiyijian.top/2019/06/23/swsad-video/)
 * X1 meeting-records
     - [inception meeting (2019/04/26)](X1-inception-meeting)
     - [Iteration 1 meeting (2019/05/29)](X1-iteration1-meeting)
