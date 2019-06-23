@@ -30,7 +30,7 @@
 
 
 ### Back-End-Go
-![](image/backgo.PNG)
+![](image/backgo.png)
 
 
 ## 综合贡献度分配  
