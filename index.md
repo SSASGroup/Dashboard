@@ -35,9 +35,10 @@ layout: default
     - [inception meeting (2019/04/26)](X1-inception-meeting)
     - [Iteration 1 meeting (2019/05/29)](X1-iteration1-meeting)
 * X2 [KANBAN](https://github.com/orgs/SSASGroup/projects)
-* X3 auditing-records
+* X3 [auditing-records](x3-auditing-records)
 * X4 Tech/Work Report
    - [16340162-Django中图片的上传和访问问题](http://tiandiyijian.top/2019/06/22/swsad-django-img/)
+   - [16340146-java+Tomcat搭建一个简单的服务器](https://blog.csdn.net/liubingqingsysu/article/details/92434363)
 * X5 Final Report
    - 学号-title
    - [小组分工与贡献率说明](X5-teamwork-profile)
