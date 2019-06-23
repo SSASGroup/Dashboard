@@ -1,3 +1,14 @@
+## 小组成员
+
+|   学号   |   姓名    |          GitHub账号          |
+| :------: | :-------: | :--------------------------: |
+| 16340146 |  liubq98  |  https://github.com/liubq98  |
+| 16340160 | SaluteKat | https://github.com/SaluteKat |
+| 16340067 |  hancx77  |  https://github.com/hancx77  |
+| 16340206 | 16340206  | https://github.com/16340206  |
+| 16340162 | roronoaws | https://github.com/roronoaws |
+
+
 ## PSP2.1 汇总表  
   
 | PSP 2.1 | Personal Software Process Stages	 | 16340146  | 16340160	  | 16340067  | 16340206  | 16340162  |  
