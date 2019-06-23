@@ -13,7 +13,7 @@
 |  coding   |    具体编码        | 30 |  |  |  | 25 |  
 |  code review   |     代码复审       | 5 |  |  |  | 5 |  
 |  test   |     测试（修改代码）       | 15 |  |  |  | 12 |  
-|  **Report**   |     **报告**       | 10 |  |  |  | 10 |  
+|  **Report**   |     **报告**       | 20 |  |  |  | 10 |  
 |  test report   |     测试报告       | 1 |  |  |  | 1 |  
 |  size measurement   |       计算工作量     | 1 |  |  |  | 1 |  
 |   postmortem & process improvement plan  |    每次迭代结束后写总结文档，并提出改进计划        | 10 |  |  |  | 8 |  
