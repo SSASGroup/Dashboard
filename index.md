@@ -41,6 +41,7 @@ layout: default
    - [16340146-java+Tomcat搭建一个简单的服务器](https://blog.csdn.net/liubingqingsysu/article/details/92434363)
    - [16340162-Ubuntu下PostgreSQL的安装使用及远程访问](http://tiandiyijian.top/2019/06/22/swsad-postgresql/)
    - [16340206-改善项目沟通](https://16340206.github.io/%E6%94%B9%E5%96%84%E9%A1%B9%E7%9B%AE%E6%B2%9F%E9%80%9A)
+   - [16340160-微信小程序登陆](https://blog.csdn.net/qq_36315626/article/details/93559829)
 * X5 Final Report
    - [16340146-liubq98 Final Report](https://blog.csdn.net/liubingqingsysu/article/details/92436378)
    - [16340162-roronoaws-final-report](http://tiandiyijian.top/2019/06/23/swsad-final-report/)
