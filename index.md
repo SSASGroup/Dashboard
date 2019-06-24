@@ -46,4 +46,5 @@ layout: default
    - [16340146-liubq98 Final Report](https://blog.csdn.net/liubingqingsysu/article/details/92436378)
    - [16340162-roronoaws-final-report](http://tiandiyijian.top/2019/06/23/swsad-final-report/)
    - [16340206-16340206-Final_Report](https://github.com/16340206/16340206.github.io/blob/master/16340206_Final_Report.md)
+   - [16340146-SaluteKat Final Report](https://blog.csdn.net/qq_36315626/article/details/93563334)
    - [小组分工与贡献率说明](X5-teamwork-profile)
